@@ -1,6 +1,6 @@
 package behaviours;
 
 public interface Drivable {
-  int driveDistance(int distance);
+  int driveTime(int distance);
 }
 
